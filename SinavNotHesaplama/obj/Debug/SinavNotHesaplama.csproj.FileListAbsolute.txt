@@ -1,0 +1,11 @@
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\SinavNotHesaplama\SinavNotHesaplama\bin\Debug\SinavNotHesaplama.exe.config
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\SinavNotHesaplama\SinavNotHesaplama\bin\Debug\SinavNotHesaplama.exe
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\SinavNotHesaplama\SinavNotHesaplama\bin\Debug\SinavNotHesaplama.pdb
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\SinavNotHesaplama\SinavNotHesaplama\obj\Debug\SinavNotHesaplama.csproj.AssemblyReference.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\SinavNotHesaplama\SinavNotHesaplama\obj\Debug\SinavNotHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\SinavNotHesaplama\SinavNotHesaplama\obj\Debug\SinavNotHesaplama.Form1.resources
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\SinavNotHesaplama\SinavNotHesaplama\obj\Debug\SinavNotHesaplama.Properties.Resources.resources
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\SinavNotHesaplama\SinavNotHesaplama\obj\Debug\SinavNotHesaplama.csproj.GenerateResource.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\SinavNotHesaplama\SinavNotHesaplama\obj\Debug\SinavNotHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\SinavNotHesaplama\SinavNotHesaplama\obj\Debug\SinavNotHesaplama.exe
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\SinavNotHesaplama\SinavNotHesaplama\obj\Debug\SinavNotHesaplama.pdb
